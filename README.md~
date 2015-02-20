@@ -30,11 +30,7 @@ Run these Following commands.
 # Problems I Faced
 
 
-1. SCSS is not exactly copmilable so if it has errors and we don't catch it during runtime then that error persists and Guard is not able to process it into CSS.
+SCSS is not exactly copmilable so if it has errors and we don't catch it during runtime then that error persists and Guard is not able to process it into CSS.
 
-2. In SCSS or styling sheets we have used bootstrap and since I didn't write any HTML or anything so I couldn't import bootstrap the ususal way. So I copied the _bootstrap.scss partial to my SCSS folder. That wasn't enough even the _variables.scss partial for bootstrap variables is required.
-
-3. I ran into another error for bootstrap-sprockets which is also needed to be copied in which I got from the bootstrap github repo.
-
-4. I ran into another Guardfile code error as it doesn't read .js.coffee extensions and I had to type in a pattern expression to define those files as coffees-script files.
-
+In SCSS or styling sheets we have used bootstrap and since I didn't write any HTML or anything I could
+  
