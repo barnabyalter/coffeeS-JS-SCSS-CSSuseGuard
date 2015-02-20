@@ -14,13 +14,13 @@ Guard is a command line tool to easily handle events on file system modification
 
 Run these Following commands.
   
-  git clone https://github.com/Amay22/coffeeS-JS-SCSS-CSSuseGuard
-  
-  cd coffeeS-JS-SCSS-CSSuseGuard
-  
-  bundle install
-  
-  bundle exec guard
+    git clone https://github.com/Amay22/coffeeS-JS-SCSS-CSSuseGuard
+    
+    cd coffeeS-JS-SCSS-CSSuseGuard
+    
+    bundle install
+    
+    bundle exec guard
   
   
   
