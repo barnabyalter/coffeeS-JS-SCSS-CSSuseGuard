@@ -23,4 +23,7 @@ Run these Following commands.
     bundle exec guard
   
   
+# Problems I faced
+
+In SCSS or styling sheets we have used bootstrap 
   
