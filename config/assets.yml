@@ -1,7 +1,0 @@
-#javascripts:
-  #application:
-  #  - scripts/js/plugins/jquery-ui.js
-  #  - scripts/js/global.js
-  #blog:
-  #  - scripts/js/plugins/pagination.js
-  #  - scripts/js/blog.js
